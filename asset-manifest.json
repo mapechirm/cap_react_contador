@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cap_react_contador/static/css/main.39345ef0.css",
+    "main.js": "/cap_react_contador/static/js/main.0fb209ad.js",
+    "index.html": "/cap_react_contador/index.html",
+    "main.39345ef0.css.map": "/cap_react_contador/static/css/main.39345ef0.css.map",
+    "main.0fb209ad.js.map": "/cap_react_contador/static/js/main.0fb209ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39345ef0.css",
+    "static/js/main.0fb209ad.js"
+  ]
+}
