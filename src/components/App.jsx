@@ -1,9 +1,15 @@
-import Contador from "./Contador";
+import Card from "./Card";
 
 function App() {
+  let data = require("../cards.json");
+
   return (
     <div className="App">
-      <Contador />
+      <div className="container">
+        {data.map(({ lang, url }) => {
+          return <Card lang={lang} key={lang} url={url} />;
+        })}
+      </div>
     </div>
   );
 }
