@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cap_react_contador/static/css/main.306aeece.css",
-    "main.js": "/cap_react_contador/static/js/main.04e31622.js",
+    "main.css": "/cap_react_contador/static/css/main.3d396f9a.css",
+    "main.js": "/cap_react_contador/static/js/main.e1109459.js",
     "index.html": "/cap_react_contador/index.html",
-    "main.306aeece.css.map": "/cap_react_contador/static/css/main.306aeece.css.map",
-    "main.04e31622.js.map": "/cap_react_contador/static/js/main.04e31622.js.map"
+    "main.3d396f9a.css.map": "/cap_react_contador/static/css/main.3d396f9a.css.map",
+    "main.e1109459.js.map": "/cap_react_contador/static/js/main.e1109459.js.map"
   },
   "entrypoints": [
-    "static/css/main.306aeece.css",
-    "static/js/main.04e31622.js"
+    "static/css/main.3d396f9a.css",
+    "static/js/main.e1109459.js"
   ]
 }
